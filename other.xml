@@ -61,7 +61,13 @@
     <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
     <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files (x86)/nodejs/node.exe">
+      <version-cache version="5.5.0" last-modified="1453356704000" />
+      <npm-package value="C:\Program Files (x86)\nodejs\node_modules\npm" />
+    </local-interpreter>
+  </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="C:/Program Files (x86)/nodejs/node.exe" version="5.1.1" last-modified="1449199448000" />
+    <node-interpreter path="C:/Program Files (x86)/nodejs/node.exe" version="5.5.0" last-modified="1453356704000" />
   </component>
 </application>
