@@ -6,8 +6,12 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="mmaguire400" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mmaguire400/try_git.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Dev\Projects\meteor\rosieKitchen" />
+    <option name="cloneParentDir" value="C:\Dev\javascript projects" />
   </component>
 </application>
