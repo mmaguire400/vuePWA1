@@ -1,7 +1,0 @@
-<application>
-  <component name="TerminalOptionsProvider">
-    <envs>
-      <env key="git" value="c:\program files\git\cmd\git.exe" />
-    </envs>
-  </component>
-</application>
